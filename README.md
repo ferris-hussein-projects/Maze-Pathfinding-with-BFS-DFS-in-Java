@@ -1,4 +1,4 @@
-Maze-Pathfinding-with-BFS-DFS-in-Java
+#Maze-Pathfinding-with-BFS-DFS-in-Java
 
 ## Overview
 This project implements a graphical maze solver using Java Swing. It generates a random maze and allows the user to solve it using either the Breadth-First Search (BFS) or Depth-First Search (DFS) algorithms. The graphical representation of the maze is displayed in a JFrame, and buttons are provided to initiate the search algorithms.
